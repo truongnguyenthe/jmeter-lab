@@ -90,11 +90,11 @@ Sau khi cấu hình hoàn tất, tiến hành chạy Test Plan để gửi các 
 
 ### Summary Report
 
-![Summary Report](reports/summary_report.png)
+![Summary Report](images/summary_report.png)
 
 ### Aggregate Report
 
-![Aggregate Report](reports/aggregate_report.png)
+![Aggregate Report](images/aggregate_report.png)
 
 ---
 
