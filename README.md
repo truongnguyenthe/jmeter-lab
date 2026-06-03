@@ -66,7 +66,7 @@ Path: /posts
 
 Ảnh minh họa:
 
-![HTTP Request](images/http_request.png)
+![HTTP Request](images/https_request.png)
 
 ---
 
